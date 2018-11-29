@@ -1,0 +1,61 @@
+{
+  "name": "market-project-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lint & node build/start_server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run lint & node build/build.js",
+    "lint": "./node_modules/.bin/eslint --ext .js ./src/js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "cssnano-preset-advanced": "^4.0.5",
+    "eslint": "^4.8.0",
+    "eslint-plugin-react": "^7.11.1",
+    "express": "^4.16.3",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^2.0.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "normalize.css": "^8.0.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "postcss-loader": "^3.0.0",
+    "script-loader": "^0.7.2",
+    "style-loader": "^0.18.2",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.26.0",
+    "webpack-cleanup-plugin": "^0.5.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10",
+    "webpack-merge": "^4.1.0",
+    "zepto": "^1.2.0"
+  },
+  "dependencies": {
+    "cssnano": "^4.1.7",
+    "exports-loader": "^0.7.0",
+    "postcss-aspect-ratio-mini": "0.0.2",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-px-to-viewport": "0.0.3",
+    "postcss-viewport-units": "^0.1.6",
+    "postcss-write-svg": "^3.0.1",
+    "swiper": "^4.4.2",
+    "zepto": "^1.2.0"
+  },
+  "browserslist": [
+    "iOS >= 8",
+    "Firefox >= 20",
+    "Android > 4.0",
+    "last 5 versions"
+  ]
+}

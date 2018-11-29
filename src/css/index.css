@@ -1,0 +1,45 @@
+/**
+ * Created by caofk on 2018/11/29.
+ */
+.app {
+	width: 750px;
+	height: 200px;
+	background: #f27a7a;
+	color: #ffffff;
+	line-height: 200px;
+	text-align: center;
+}
+
+.list {
+	height: 80px;
+	width: 720px;
+	margin: 0 auto 10px auto;
+	border: 1px solid #f27a7a;
+	font-size: 24px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.row {
+	margin: 40px 0;
+}
+
+.cat {
+	width: 650px;
+	height: 400px;
+	margin: 0 auto;
+	display: block
+}
+
+
+@svg square {
+	@rect {
+		fill: var(--color, black); width: 100%; height: 100%;
+	}
+}
+#example {
+	background: white svg(square param(--color #00b1ff));
+	height: 1px;
+	width: 100%;
+}

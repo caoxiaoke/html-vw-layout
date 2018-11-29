@@ -1,0 +1,22 @@
+/*body {*/
+	/*color: black;*/
+	/*display: flex;*/
+	/*justify-content: center;*/
+	/*align-content: center;*/
+/*}*/
+
+/*div {*/
+	/*display: flex;*/
+	/*justify-content: center;*/
+	/*align-content: center;*/
+
+/*}*/
+
+.app {
+	width: 750px;
+	height: 200px;
+	background: #f27a7a;
+	color: #ffffff;
+	line-height: 200px;
+	text-align: center;
+}
