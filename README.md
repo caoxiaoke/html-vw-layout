@@ -39,19 +39,21 @@
  <a href="https://github.com/rodneyrehm/viewport-units-buggyfill"> https://github.com/rodneyrehm/viewport-units-buggyfill </a>
  项目中引用
  <br/> 
-```json 
-    // code for coloring 
+ 
+  ``diff 
+<head>
+    <script src="//g.alicdn.com/fdilab/lib3rd/viewport-units-buggyfill/0.6.2/??viewport-units-buggyfill.hacks.min.js,viewport-units-buggyfill.min.js"></script>
+</head>
+<body>
+<script>
+	window.onload = function () {
+		window.viewportUnitsBuggyfill.init({
+			hacks: window.viewportUnitsBuggyfillHacks
+		});
+	}
+</script>
+<body>
 ``` 
-```html 
-    // code for coloring 
-``` 
-```js 
-    // code for coloring 
-``` 
-```css 
-    // code for coloring 
-``` 
-// etc. 
 <br/>
 <br/>
 <br/>
