@@ -24,7 +24,7 @@
 <br/>
 3、不支持vw 的浏览器的解决方案？
  <br/>
- 低版本浏览器、低端机型不支持的情况下，我们可以hack 
+ 低版本浏览器、低端机型不支持的情况下，我们可以hack ，在部分浏览器上不显示图片，可以加上全局解决 img {content: normal !important}
  <a href="https://github.com/rodneyrehm/viewport-units-buggyfill"> https://github.com/rodneyrehm/viewport-units-buggyfill </a>
  项目中引用
  <br/> 
