@@ -57,10 +57,7 @@ cd html-vw-layout
 	执行步骤：npm install 或者 sudo npm install
 </p>
 <p>
-	执行步骤：npm install 或者 sudo npm install
-</p>
-<p>
-	开发环境 npm run start http://localhost:8080 查看效果
+	开发环境 npm run start || 开发环境 http://localhost:8080 查看效果
 </p>
 <p>
 	生产打包 npm run build
