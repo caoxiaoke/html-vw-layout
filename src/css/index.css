@@ -1,6 +1,9 @@
 /**
  * Created by caofk on 2018/11/29.
  */
+body,html{
+	overflow-x: hidden;
+}
 .app {
 	width: 750px;
 	height: 200px;
@@ -8,12 +11,13 @@
 	color: #ffffff;
 	line-height: 200px;
 	text-align: center;
+	font-size: 36px;
 }
 
 .list {
 	height: 80px;
 	width: 720px;
-	margin: 0 auto 10px auto;
+	margin: 10px auto 10px auto;
 	border: 1px solid #f27a7a;
 	font-size: 24px;
 	display: flex;
@@ -42,4 +46,26 @@
 	background: white svg(square param(--color #00b1ff));
 	height: 1px;
 	width: 100%;
+	margin: 40px 0;
+}
+
+img {content: normal !important}
+
+.box-row{
+	margin: 0 auto;
+	width: 750px;
+}
+.box{
+	border: 1px solid #f27a7a;
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.inner-box{
+	width: 80px;
+	height: 80px;
+	border: 1px solid #f27a7a;
+	padding: 100px;
+	margin: 60px;
 }
