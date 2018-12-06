@@ -38,8 +38,8 @@
  低版本浏览器、低端机型不支持的情况下，我们可以hack 
  <a href="https://github.com/rodneyrehm/viewport-units-buggyfill"> https://github.com/rodneyrehm/viewport-units-buggyfill </a>
  项目中引用
- {::nomarkdown}
- <head>
+ ```
+  <head>
     <script src="//g.alicdn.com/fdilab/lib3rd/viewport-units-buggyfill/0.6.2/??viewport-units-buggyfill.hacks.min.js,viewport-units-buggyfill.min.js"></script>
 </head>
 <body>
@@ -51,8 +51,7 @@
 	}
 </script>
 <body>
- {:/}
-
+ ``` 
 <br/>
 <br/>
 <br/>
