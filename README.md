@@ -32,6 +32,19 @@
 <br/>
 <br/>
 3、不支持vw 的浏览器的解决方案？
+
+
+
 <br/>
-配置方式参考大漠vw解决方案
+<br/>
+<br/>
+
+如果你不使用react 也不使用vue ，在项目中只使用html页面 vw实现移动端适配，请点这
+<a href="https://github.com/caoxiaoke/html-vw-layout">《如何在html项目中使用vw实现移动端适配》</a>
+<br/>
+在react项目中使用vw实现移动端适配 请参考
+<a href="https://github.com/gaohan1994/react-vw-layout">《如何在react项目中使用vw实现移动端适配》</a>
+<br/>
+在vue项目中使用vw适配 请参考
 <a href="https://www.w3cplus.com/mobile/vw-layout-in-vue.html">《如何在Vue项目中使用vw实现移动端适配》</a>
+<br/>
