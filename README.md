@@ -38,24 +38,20 @@
  低版本浏览器、低端机型不支持的情况下，我们可以hack 
  <a href="https://github.com/rodneyrehm/viewport-units-buggyfill"> https://github.com/rodneyrehm/viewport-units-buggyfill </a>
  项目中引用
- <br/>
- ```javascript
- <head>
-    <script src="//g.alicdn.com/fdilab/lib3rd/viewport-units-buggyfill/0.6.2/??viewport-units-buggyfill.hacks.min.js,viewport-units-buggyfill.min.js"></script>
-</head>
-<body>
-<script>
-	window.onload = function () {
-		window.viewportUnitsBuggyfill.init({
-			hacks: window.viewportUnitsBuggyfillHacks
-		});
-	}
-</script>
-<body>
-```
-```Java
-public static void main(String[]args){} //Java
-```
+ <br/> 
+```json 
+    // code for coloring 
+``` 
+```html 
+    // code for coloring 
+``` 
+```js 
+    // code for coloring 
+``` 
+```css 
+    // code for coloring 
+``` 
+// etc. 
 <br/>
 <br/>
 <br/>
