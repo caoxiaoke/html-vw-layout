@@ -53,6 +53,9 @@
 </script>
 <body>
 ```
+```Java
+public static void main(String[]args){} //Java
+```
 <br/>
 <br/>
 <br/>
