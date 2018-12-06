@@ -40,7 +40,7 @@
  项目中引用
  <br/> 
  
-  ``diff 
+ ```diff 
 <head>
     <script src="//g.alicdn.com/fdilab/lib3rd/viewport-units-buggyfill/0.6.2/??viewport-units-buggyfill.hacks.min.js,viewport-units-buggyfill.min.js"></script>
 </head>
