@@ -12,8 +12,10 @@
 
 
 
+<br/>
+<br/>
+<br/>
 
-
-参考大漠vw解决方案 vue-cli的配置方式
+配置方式参考大漠vw解决方案
 
 <a href="https://www.w3cplus.com/mobile/vw-layout-in-vue.html">《如何在Vue项目中使用vw实现移动端适配》</a>
