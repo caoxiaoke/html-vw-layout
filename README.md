@@ -47,8 +47,13 @@
 ``` 
 <br/>
 <br/>
-
-执行步骤： npm install
+如果你已经装了git 的话，可以走以下步骤。
+<br/>
+git clone https://github.com/caoxiaoke/html-vw-layout.git
+<br/>
+cd html-vw-layout
+<br/>
+执行步骤：npm install || sudo npm install
 
 开发环境 npm run start http://localhost:8080 查看效果
 
