@@ -22,7 +22,6 @@
   几年时间过去，各大厂商对vw 对兼容升级、低端机型占比逐步减少，vw 的适配方案也慢慢的浮出了水面，大家重新对它有了新的认识。包括我们业界知名的大漠，他们在手淘已经对vw 适配方案有了一年多的实践时间。
 </p>
 <br/>
-<br/>
 3、不支持vw 的浏览器的解决方案？
  <br/>
  低版本浏览器、低端机型不支持的情况下，我们可以hack 
@@ -54,12 +53,10 @@ git clone https://github.com/caoxiaoke/html-vw-layout.git
 cd html-vw-layout
 <br/>
 执行步骤：npm install || sudo npm install
-
-开发环境 npm run start http://localhost:8080 查看效果
-
-生产打包 npm run build
-
 <br/>
+开发环境 npm run start http://localhost:8080 查看效果
+<br/>
+生产打包 npm run build
 <br/>
 
 如果你不使用react 也不使用vue ，在项目中只使用html页面 vw实现移动端适配，请点这
