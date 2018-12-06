@@ -4,16 +4,6 @@
 
 适合小白哈，大佬看到点完小星星✨再绕路～小白也别忘记了点个星星！谢谢～
 
-执行步骤： npm install
-
-开发环境 npm run start http://localhost:8080 查看效果
-
-生产打包 npm run build
-
-
-
-<br/>
-<br/>
 <br/>
 1、在这里很多人有疑问，为什么要用vw 单位来做适配？vw 和 我们常用rem适配方案有什么优缺点？
 <br/>
@@ -56,6 +46,14 @@
 <body>
 ``` 
 <br/>
+<br/>
+
+执行步骤： npm install
+
+开发环境 npm run start http://localhost:8080 查看效果
+
+生产打包 npm run build
+
 <br/>
 <br/>
 
