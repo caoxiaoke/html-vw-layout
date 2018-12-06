@@ -29,8 +29,8 @@ vmin和vmax是相对于视口的高度和宽度两者之间的最小值或最大
 </p>
 <br/>
 
-rem是相对于根元素（html）的字体大小（font-size）来计算的长度单位
-rem 10px == 62.5%
+rem是相对于根元素（html）的字体大小（font-size）来计算的长度单位rem;
+10px == 62.5%
  ```html 
 html {font-size: 62.5%;/*10 ÷ 16 × 100% = 62.5%*/}
 			body {font-size: 1.4rem;/*1.4 × 10px = 14px */}
