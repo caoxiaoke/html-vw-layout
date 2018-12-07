@@ -106,6 +106,16 @@ cd html-vw-layout
 	生产打包 npm run build
 </p>
 <br/>
+#Demo
+
+<p>
+	Galaxy%20Note%203
+	<br/>
+	![image](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
+</p>
+
+<br/>
+
 如果你不使用react 也不使用vue ，在项目中只使用html页面 vw实现移动端适配，请点这
 <a href="https://github.com/caoxiaoke/html-vw-layout">《如何在html项目中使用vw实现移动端适配》</a>
 <br/>
