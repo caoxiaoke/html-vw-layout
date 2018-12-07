@@ -109,7 +109,7 @@ cd html-vw-layout
 #Demo
 
 <p>
-	![image](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
+	![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
 </p>
 
 <br/>
