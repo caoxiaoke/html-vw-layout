@@ -119,45 +119,49 @@ cd html-vw-layout
 
 ###Demo
 
-
 <br/>
-<p>Galaxy Note 3</p>
+Galaxy Note 3
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png
 <br/>
-<p>Galaxy S5</p>
+Galaxy S5
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20S5.png
 <br/>
-<p>Nexus 7</p>
+Nexus 7
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Nexus%207.png
 <br/>
-<p>iPad Pro</p>
+iPad Pro
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPad%20Pro.png
 <br/>
-<p>iPad</p>
+iPad
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPad.png
 <br/>
-<p>iPhone 5_SE</p>
+iPhone 5_SE
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%205_SE.png
 <br/>
-<p>iPhone 6_7_8 Plus</p>
+iPhone 6_7_8 Plus
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%206_7_8%20Plus.png
 <br/>
-<p>iPhone 6_7_8</p>
+iPhone 6_7_8
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%206_7_8.png
 <br/>
-
-<p>iPhone X</p>
+iPhone X
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%20X.png
 <br/>
-
-<p>华为P10 PLUS 1440_2560</p>
+华为P10 PLUS 1440_2560
+<br/>
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP10%20PLUS%201440_2560.png
 <br/>
-
-<p>华为P20</p>
+华为P20
 https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP20.png
 <br/>
-
 iPhone 6_7_8
 <br/>
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%206_7_8.png)
