@@ -149,6 +149,6 @@ cd html-vw-layout
 <p>华为P10 PLUS 1440_2560</p>
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP10%20PLUS%201440_2560.png)
 
-<p>华为P20</p>
+华为P20
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP20.png)
 
