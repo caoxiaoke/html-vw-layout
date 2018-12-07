@@ -107,10 +107,6 @@ cd html-vw-layout
 </p>
 <br/>
 
-![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
-
-<br/>
-
 如果你不使用react 也不使用vue ，在项目中只使用html页面 vw实现移动端适配，请点这
 <a href="https://github.com/caoxiaoke/html-vw-layout">《如何在html项目中使用vw实现移动端适配》</a>
 <br/>
@@ -120,3 +116,9 @@ cd html-vw-layout
 在vue项目中使用vw适配 请参考
 <a href="https://www.w3cplus.com/mobile/vw-layout-in-vue.html">《如何在Vue项目中使用vw实现移动端适配》</a>
 <br/>
+
+###Demo
+
+<br/>
+
+![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png "Galaxy Note 3")
