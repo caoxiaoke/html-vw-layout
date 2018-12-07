@@ -109,8 +109,6 @@ cd html-vw-layout
 #Demo
 
 <p>
-	Galaxy%20Note%203
-	<br/>
 	![image](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
 </p>
 
