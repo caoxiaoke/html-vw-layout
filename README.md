@@ -146,9 +146,12 @@ cd html-vw-layout
 <p>iPhone X</p>
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/iPhone%20X.png)
 
-<p>华为P10 PLUS 1440_2560</p>
+华为P10 PLUS 1440_2560
+<br/>
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP10%20PLUS%201440_2560.png)
+<br/>
 
 华为P20
+<br/>
 ![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/%E5%8D%8E%E4%B8%BAP20.png)
 
