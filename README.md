@@ -106,11 +106,8 @@ cd html-vw-layout
 	生产打包 npm run build
 </p>
 <br/>
-#Demo
 
-<p>
-	![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
-</p>
+![Image text](https://github.com/caoxiaoke/html-vw-layout/blob/master/src/images/Galaxy%20Note%203.png)
 
 <br/>
 
