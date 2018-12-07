@@ -118,7 +118,6 @@ cd html-vw-layout
 <br/>
 
 ###Demo
-
 <br/>
 Galaxy Note 3
 <br/>
