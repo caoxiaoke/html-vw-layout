@@ -4,6 +4,8 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const config = require('./conf.js');
 const webpackConfig = require('./webpack.conf.js');
 const OptimizeCSSPlugin  = require("optimize-css-assets-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+
 //vw
 const autoprefixer = require('autoprefixer');
 const postcssAspectRatioMini = require('postcss-aspect-ratio-mini');
@@ -23,7 +25,14 @@ const webpackProdConfig = {
 		  {
 			  test: /\.css$/,
 			  use: [
-				  require.resolve('style-loader'),
+				  {
+					  loader: MiniCssExtractPlugin.loader,
+					  options: {
+						  // you can specify a publicPath here
+						  // by default it use publicPath in webpackOptions.output
+						  publicPath: '/'
+					  }
+				  },
 				  {
 					  loader: require.resolve('css-loader'),
 					  options: {
@@ -97,7 +106,11 @@ const webpackProdConfig = {
 }
 
 let plugins = [
-  new ExtractTextPlugin({ filename: "styles.[chunkhash].css", allChunks: true }),
+  // new ExtractTextPlugin({ filename: "styles.[chunkhash].css", allChunks: true }),
+	new MiniCssExtractPlugin({
+		filename: "[name].[chunkhash].css",
+		chunkFilename: "[id].[chunkhash].css"
+	}),
 	new OptimizeCSSPlugin({
 		cssProcessorOptions: {
 			safe: true
