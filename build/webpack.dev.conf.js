@@ -63,9 +63,10 @@ const webpackDevConfig = {
 								postcssCssnext({}),
 								postcssViewportUnits({}),
 								cssnano({
-									preset: "advanced",
-									autoprefixer: false,
-									"postcss-zindex": false
+									  "cssnano-preset-advanced": {
+										zindex: false,
+										autoprefixer: false
+									      }
 								})
 							],
 						},
