@@ -1,7 +1,7 @@
 {
-  "name": "html-vw-layout",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "start": "node build/start_server.js",
@@ -54,5 +54,6 @@
     "Firefox >= 20",
     "Android > 4.0",
     "last 5 versions"
-  ]
+  ],
+ "author": "{{author}}"
 }
